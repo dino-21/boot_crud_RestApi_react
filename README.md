@@ -11,13 +11,18 @@
 | 통신 방식     | REST API (axios 사용)  |
 | 포트          | 백엔드: 8080 / 프론트: 3000 |
 
-## ##
+## cd 디렉토리 ##
+```
+npx create-react-app frontend
+```
 
 
 ## react 터미널 ##
+```
 npm install react-bootstrap bootstrap
 npm install react-router-dom
 npm install axios
+```
 
 
 
