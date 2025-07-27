@@ -29,3 +29,17 @@ npm install axios
 <img width="1078" height="640" alt="1" src="https://github.com/user-attachments/assets/c83ceb2e-357c-4ebb-8246-961df5a4758e" />
 
 
+
+<img width="1006" height="690" alt="4" src="https://github.com/user-attachments/assets/4ae42667-f83f-4086-80c2-9784df21f363" />
+
+
+
+<img width="1058" height="761" alt="3" src="https://github.com/user-attachments/assets/8f348c28-c48c-4cfc-8815-a9ee63a624aa" />
+
+
+
+<img width="1087" height="713" alt="5" src="https://github.com/user-attachments/assets/1916d971-5d90-481f-96a1-31f655cc09c5" />
+
+
+
+<img width="1085" height="665" alt="6" src="https://github.com/user-attachments/assets/cf5926ce-1752-4fc3-9f28-24daa1111ccc" />
