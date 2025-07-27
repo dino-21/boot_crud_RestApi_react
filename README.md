@@ -28,11 +28,12 @@ npm install react-bootstrap bootstrap
 npm install react-router-dom
 npm install axios
 ```
-<img width="1078" height="640" alt="1" src="https://github.com/user-attachments/assets/d64d6709-8ac1-4776-8c70-45174c7293b0" />
+
+<img width="1078" height="640" alt="1" src="https://github.com/user-attachments/assets/f1b731f9-7e33-4fd2-a74f-9b580494c728" />
 
 
+<img width="846" height="671" alt="4" src="https://github.com/user-attachments/assets/9aed4203-63d7-4c22-91e1-14d558c82554" />
 
-<img width="1006" height="690" alt="4" src="https://github.com/user-attachments/assets/4ebb40ae-4025-44a9-b87c-82b70e3b9382" />
 
 <img width="989" height="698" alt="7" src="https://github.com/user-attachments/assets/d8a2b948-8b62-407f-8ea4-cdae5671d59a" />
 
