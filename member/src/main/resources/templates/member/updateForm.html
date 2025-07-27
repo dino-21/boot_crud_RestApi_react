@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>New Member</title>
+</head>
+<body>
+<h1>Update Member Form</h1>
+<form th:action="@{/member/update}" th:object="${member}" method="post">
+    <input type="hidden" th:field="*{id}">
+    <div >
+        <label for="name">Name:</label>
+        <input type="text" id="name" th:field="*{name}"  />
+    </div>
+    <div >
+        <label for="age">age:</label>
+        <input type="text" id="age" th:field="*{age}"  />
+    </div>
+
+    <div >
+        <label for="phone">phone:</label>
+        <input type="text" id="phone" th:field="*{phone}"  />
+    </div>
+
+    <div >
+        <label for="address">address:</label>
+        <input type="text" id="address" th:field="*{address}"  />
+    </div>
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
+</body>
+</html>
