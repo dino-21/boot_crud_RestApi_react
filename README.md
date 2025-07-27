@@ -17,34 +17,35 @@ npx create-react-app frontend
 ```
 
 
+
+<img width="361" height="113" alt="2" src="https://github.com/user-attachments/assets/dee8aa1c-0ff3-46b4-9439-626d21ea388a" />
+
+
+
 ## react 터미널 ##
 ```
 npm install react-bootstrap bootstrap
 npm install react-router-dom
 npm install axios
 ```
+<img width="1078" height="640" alt="1" src="https://github.com/user-attachments/assets/d64d6709-8ac1-4776-8c70-45174c7293b0" />
 
 
 
+<img width="1006" height="690" alt="4" src="https://github.com/user-attachments/assets/4ebb40ae-4025-44a9-b87c-82b70e3b9382" />
 
-<img width="361" height="113" alt="2" src="https://github.com/user-attachments/assets/a53640fe-37eb-40cc-b54f-e70dc0c7e618" />
-
-
-
-<img width="1078" height="640" alt="1" src="https://github.com/user-attachments/assets/c83ceb2e-357c-4ebb-8246-961df5a4758e" />
+<img width="989" height="698" alt="7" src="https://github.com/user-attachments/assets/d8a2b948-8b62-407f-8ea4-cdae5671d59a" />
 
 
 
-<img width="1006" height="690" alt="4" src="https://github.com/user-attachments/assets/4ae42667-f83f-4086-80c2-9784df21f363" />
+<img width="932" height="700" alt="10" src="https://github.com/user-attachments/assets/aac1a4a4-b3e7-4be3-8681-8dbf764c5aab" />
 
+<img width="1067" height="720" alt="9" src="https://github.com/user-attachments/assets/c29cb4a7-5eb4-436d-b17c-42bcc2814bd0" />
 
+<img width="1077" height="697" alt="8" src="https://github.com/user-attachments/assets/99ec57a2-0d11-4607-b34e-9b190bc79f71" />
 
-<img width="1058" height="761" alt="3" src="https://github.com/user-attachments/assets/8f348c28-c48c-4cfc-8815-a9ee63a624aa" />
+<img width="1087" height="713" alt="5" src="https://github.com/user-attachments/assets/ec0bba12-75c3-48b6-a998-b1df4a9e5384" />
 
+<img width="1058" height="761" alt="3" src="https://github.com/user-attachments/assets/e37d65ad-a148-48fa-ac47-f65414e948a1" />
 
-
-<img width="1087" height="713" alt="5" src="https://github.com/user-attachments/assets/1916d971-5d90-481f-96a1-31f655cc09c5" />
-
-
-
-<img width="1085" height="665" alt="6" src="https://github.com/user-attachments/assets/cf5926ce-1752-4fc3-9f28-24daa1111ccc" />
+<img width="1085" height="665" alt="6" src="https://github.com/user-attachments/assets/8ac722e7-4e3a-4524-8ec4-fb15c18bb444" />
